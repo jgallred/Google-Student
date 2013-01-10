@@ -1,0 +1,2 @@
+serviceClass: com.student.client.GreetingService
+path: 278FF471E1BE9EFDEA19D2CA79EA1B89.gwt.rpc
